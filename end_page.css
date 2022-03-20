@@ -1,0 +1,15 @@
+.body_background 
+{
+    background-image: url("Galaxy.gif");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin: 0%;
+    align-items: center;
+    margin-top: 10%;
+}
+.h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    
+}

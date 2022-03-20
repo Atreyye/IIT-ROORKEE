@@ -1,0 +1,27 @@
+#Science {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#Technology {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+
+#Engineering {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#Maths {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+.body_background 
+{
+    background-image: url("Galaxy.gif");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin: 0%;
+    align-items: center;
+    margin-top: 10%;
+}

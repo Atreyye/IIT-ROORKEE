@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("Galaxy.gif");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin: 0%;
+    align-items: center;
+    margin-top: 10%;
+}
+
+#electricity {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#magnetism {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#Elements {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#Circulate {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#respiratory {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#Matter {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#back {
+    margin-top: 5%;
+    margin-left: 1%;
+    width: 10%;
+    font-size: large;
+}

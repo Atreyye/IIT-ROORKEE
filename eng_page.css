@@ -1,0 +1,33 @@
+.body_background 
+{
+    background-image: url("Galaxy.gif");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin: 0%;
+    align-items: center;
+    margin-top: 10%;
+}
+
+#mech {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#elec {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#civil {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#aero {
+    width: 30%;border-radius: 15px;
+    font-size: large;
+}
+#back {
+    margin-top: 5%;
+    margin-left: 1%;
+    width: 10%;
+    font-size: large;
+}

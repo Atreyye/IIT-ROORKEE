@@ -1,0 +1,25 @@
+.body_background 
+{
+    background-image: url("Galaxy.gif");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin: 0%;
+    align-items: center;
+    margin-top: 10%;
+}
+#google form {
+    margin-left: 25%;
+    margin-right: 25%;
+    align-items: center;
+}
+#next {
+    margin-left: 90%;
+    width: 5%;border-radius: 15px;
+    font-size: large;
+}
+#back {
+    margin-left: 0%;
+    width: 5%;border-radius: 15px;
+    font-size: large;
+}
